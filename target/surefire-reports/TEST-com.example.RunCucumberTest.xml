@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.example.RunCucumberTest" time="0.236" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="18"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\AnselFernandez\Documents\GitHub\java-cucumber-test\target\test-classes;C:\Users\AnselFernandez\Documents\GitHub\java-cucumber-test\target\classes;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-java\7.8.0\cucumber-java-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-core\7.8.0\cucumber-core-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-gherkin\7.8.0\cucumber-gherkin-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.8.0\cucumber-gherkin-messages-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\gherkin\24.0.0\gherkin-24.0.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\messages\19.1.2\messages-19.1.2.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\tag-expressions\4.1.0\tag-expressions-4.1.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-expressions\16.0.0\cucumber-expressions-16.0.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\datatable\7.8.0\datatable-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-plugin\7.8.0\cucumber-plugin-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\docstring\7.8.0\docstring-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\html-formatter\20.1.0\html-formatter-20.1.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\ci-environment\9.1.0\ci-environment-9.1.0.jar;C:\Users\AnselFernandez\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.8.0\cucumber-junit-platform-engine-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-engine\1.9.0\junit-platform-engine-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-commons\1.9.0\junit-platform-commons-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-suite\1.9.0\junit-platform-suite-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-suite-api\1.9.0\junit-platform-suite-api-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.9.0\junit-platform-suite-engine-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.9.0\junit-platform-suite-commons-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.0\junit-platform-launcher-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.0\junit-jupiter-5.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.0\junit-jupiter-api-5.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.0\junit-jupiter-params-5.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.0\junit-jupiter-engine-5.9.0.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Manila"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="PH"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2.1\bin"/>
+    <property name="sun.java.command" value="C:\Users\AnselFernandez\AppData\Local\Temp\surefire9386344623874588609\surefirebooter-20230220221256353_3.jar C:\Users\AnselFernandez\AppData\Local\Temp\surefire9386344623874588609 2023-02-20T22-12-55_864-jvmRun1 surefire-20230220221256353_1tmp surefire_0-20230220221256353_2tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="C:\Users\AnselFernandez\Documents\GitHub\java-cucumber-test\target\test-classes;C:\Users\AnselFernandez\Documents\GitHub\java-cucumber-test\target\classes;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-java\7.8.0\cucumber-java-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-core\7.8.0\cucumber-core-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-gherkin\7.8.0\cucumber-gherkin-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-gherkin-messages\7.8.0\cucumber-gherkin-messages-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\gherkin\24.0.0\gherkin-24.0.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\messages\19.1.2\messages-19.1.2.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\tag-expressions\4.1.0\tag-expressions-4.1.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-expressions\16.0.0\cucumber-expressions-16.0.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\datatable\7.8.0\datatable-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-plugin\7.8.0\cucumber-plugin-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\docstring\7.8.0\docstring-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\html-formatter\20.1.0\html-formatter-20.1.0.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\ci-environment\9.1.0\ci-environment-9.1.0.jar;C:\Users\AnselFernandez\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\AnselFernandez\.m2\repository\io\cucumber\cucumber-junit-platform-engine\7.8.0\cucumber-junit-platform-engine-7.8.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-engine\1.9.0\junit-platform-engine-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-commons\1.9.0\junit-platform-commons-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-suite\1.9.0\junit-platform-suite-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-suite-api\1.9.0\junit-platform-suite-api-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-suite-engine\1.9.0\junit-platform-suite-engine-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-suite-commons\1.9.0\junit-platform-suite-commons-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\platform\junit-platform-launcher\1.9.0\junit-platform-launcher-1.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\jupiter\junit-jupiter\5.9.0\junit-jupiter-5.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.0\junit-jupiter-api-5.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.9.0\junit-jupiter-params-5.9.0.jar;C:\Users\AnselFernandez\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.0\junit-jupiter-engine-5.9.0.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\AnselFernandez"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2022-08-18"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-18.0.2.1"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="C:\Users\AnselFernandez\Documents\GitHub\java-cucumber-test"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\AnselFernandez\AppData\Local\Temp\surefire9386344623874588609\surefirebooter-20230220221256353_3.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="18.0.2.1+1-1"/>
+    <property name="user.name" value="AnselFernandez"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\AnselFernandez\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\ANSELF~1\AppData\Local\Temp\"/>
+    <property name="java.version" value="18.0.2.1"/>
+    <property name="user.dir" value="C:\Users\AnselFernandez\Documents\GitHub\java-cucumber-test"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-18.0.2.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Users\AnselFernandez\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\local\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\usr\bin;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\AnselFernandez\bin;C:\Program Files\Microsoft MPI\Bin;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0;C:\Windows\System32\OpenSSH;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0;C:\WINDOWS\System32\OpenSSH;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn;C:\Program Files\Microsoft SQL Server\150\Tools\Binn;C:\Program Files\dotnet;C:\Program Files\Java\jdk-18.0.2.1\bin;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn;C:\Program Files\Azure Data Studio\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn;C:\Program Files\Microsoft SQL Server\160\Tools\Binn;C:\Program Files\Microsoft SQL Server\160\DTS\Binn;C:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn;C:\Program Files\nodejs;C:\Users\AnselFernandez\AppData\Local\Programs\Python\Python311\Scripts;C:\Users\AnselFernandez\AppData\Local\Programs\Python\Python311;C:\Users\AnselFernandez\AppData\Local\Microsoft\WindowsApps;C:\Users\AnselFernandez\.dotnet\tools;C:\Program Files\Azure Data Studio\bin;C:\Users\AnselFernandez\AppData\Roaming\npm;C:\Users\AnselFernandez\AppData\Local\GitHubDesktop\bin;D:\apache-maven-3.8.7\bin;C:\Users\AnselFernandez\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Git\usr\bin\vendor_perl;C:\Program Files\Git\usr\bin\core_perl;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="18.0.2.1+1-1"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="62.0"/>
+  </properties>
+  <testcase name="The example" classname="An example" time="0.082">
+    <system-out><![CDATA[
+Scenario: The example                       &amp#27;[90m# com/example/example.feature:3&amp#27;[0m
+  &amp#27;[32mGiven &amp#27;[0m&amp#27;[32man example scenario&amp#27;[0m                 &amp#27;[90m# com.example.StepDefinitions.anExampleScenario()&amp#27;[0m
+  &amp#27;[32mWhen &amp#27;[0m&amp#27;[32mall step definitions are implemented&amp#27;[0m &amp#27;[90m# com.example.StepDefinitions.allStepDefinitionsAreImplemented()&amp#27;[0m
+  &amp#27;[32mThen &amp#27;[0m&amp#27;[32mthe scenario passes&amp#27;[0m                  &amp#27;[90m# com.example.StepDefinitions.theScenarioPasses()&amp#27;[0m
+]]></system-out>
+  </testcase>
+</testsuite>
