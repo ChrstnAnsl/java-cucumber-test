@@ -5,3 +5,8 @@
 
 * maven
 * java
+
+
+### Running test
+
+* mvn test
